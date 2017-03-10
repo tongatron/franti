@@ -1,10 +1,10 @@
 # Site settings
-title: Giovanni Bindi
+title: TONGATRON
 header-img: img/home-bg.jpg
 email: giovanni.bindi@gmail.com
 copyright_name: Giovanni Bindi
 description: "Personal website"
-baseurl: ""
+baseurl: "/franti"
 url: "http://tongatron.it"
 twitter_username: giobindi
 github_username:  tongatron
